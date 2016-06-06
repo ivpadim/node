@@ -1,0 +1,26 @@
+{
+  "name": "Node",
+  "version": "0.0.1",
+  "description": "Node Basics Treehouse Course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivpadim/node.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Ivan Padron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivpadim/node/issues"
+  },
+  "homepage": "https://github.com/ivpadim/node",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
